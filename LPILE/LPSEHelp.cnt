@@ -1,0 +1,97 @@
+:Base LPSEHelp.hlp>Main
+:Title LPile Plus Student Edition Help
+1 LPile Plus Student Edition Help
+2 Welcome=Welcome@LPSEHelp.hlp
+2 About Ensoft=About_Ensoft@LPSEHelp.hlp
+2 Introduction=IDH_H_INTRODUCTION@LPSEHelp.hlp
+2 Menus=IDH_H_MENUS@LPSEHelp.hlp
+2 Tool Bar=Tool_Bar@LPSEHelp.hlp
+2 In-Line Equation Evaluation=In_Line_Equation_Evaluation@LPSEHelp.hlp
+2 Keyboard Shortcuts=IDH_H_KBD@LPSEHelp.hlp
+2 Technical Support=Technical_Support@LPSEHelp.hlp
+1 File Menu
+2 File Menu=IDH_FILE@LPSEHelp.hlp
+2 File New=IDH_F_NEW@LPSEHelp.hlp
+2 File Open=IDH_F_READ@LPSEHelp.hlp
+2 File Save=IDH_F_SAVE@LPSEHelp.hlp
+2 File Save As=IDH_F_WRITE@LPSEHelp.hlp
+2 File Exit=IDH_F_EXIT@LPSEHelp.hlp
+1 Data Menu
+2 Data Menu=IDH_D_DATA_MENU@LPSEHelp.hlp
+2 Title=IDH_D_TITLE@LPSEHelp.hlp
+2 Pile Properties=IDH_D_PILEPROPS@LPSEHelp.hlp
+2 Loading Type=IDH_D_LOAD@LPSEHelp.hlp
+2 Soil Layering and Type=IDH_D_SPROP@LPSEHelp.hlp
+2 Shear Force Curve at Pile Tip=IDH_D_SHEARCURVE@LPSEHelp.hlp
+2 Design Load Combinations.=Design_Load_Combinations.@LPSEHelp.hlp
+2 Structural Resistance Factors=Structural_Resistance_Factors@LPSEHelp.hlp
+2 Pile-Head Boundary Conditions and Loading=IDH_D_TRANS@LPSEHelp.hlp
+2 Soil and Rock Properties
+3 Comparison of Soil Models for p-y Curves and Axial Loading=Comparison_of_Soil_Models_for_p_y_Curves_and_Axial_Loading@LPSEHelp.hlp
+3 Effective Unit Weight=IDH_D_WEIGHT@LPSEHelp.hlp
+3 Unit_Weight_Conversion_Factors=Unit_Weight_Conversion_Factors@LPSEHelp.hlp
+3 Cohesive Strength=Cohesive_Strength@LPSEHelp.hlp
+3 Soil Modulus Parameter k for Clays=IDH_D_CLAY@LPSEHelp.hlp
+3 Soil Strain Parameter E50 for Clay Soils=IDH_D_E50@LPSEHelp.hlp
+3 Angle of Friction=Angle_of_Friction@LPSEHelp.hlp
+3 Soil Modulus Parameter k for Sands=IDH_D_SAND@LPSEHelp.hlp
+3 Required Properties for User-input p-y Curves=IDH_D_CURVINFO@LPSEHelp.hlp
+3 Modification Factors for p-y Curves=IDH_D_MODFAC@LPSEHelp.hlp
+3 Required Properties for Soft Clay=Required_Properties_for_Soft_Clay@LPSEHelp.hlp
+3 Required Properties for Stiff Clay with Free Water=Required_Properties_for_Stiff_Clay_with_Free_Water@LPSEHelp.hlp
+3 Required Properties for Stiff Clay without Free Water=Required_Properties_for_Stiff_Clay_without_Free_Water@LPSEHelp.hlp
+3 Required Properties for Stiff Clay without Free Water Using Initial k=Required_Properties_for_Stiff_Clay_without_Free_Water_Using_Initial_k@LPSEHelp.hlp
+3 Required Properties for Sand=Required_Properties_for_Sand@LPSEHelp.hlp
+3 Required Properties for API Sand=Required_Properties_of_API_Sand@LPSEHelp.hlp
+3 Required Properties for Liquefied Sand=Required_Properties_for_Liquefied_Sand@LPSEHelp.hlp
+3 Required Properties for Cemented Silt=Required_Properties_for_Silt@LPSEHelp.hlp
+3 Required Properties for Vuggy Limestone=Required_Properties_for_Vuggy_Limestone@LPSEHelp.hlp
+3 Required Properties for Weak Rock=Required_Properties_for_Weak_Rock@LPSEHelp.hlp
+3 Elastic Modulus for Weak Rock=Elastic_Modulus_for_Weak_Rock@LPSEHelp.hlp
+3 Modulus Parameter k rm for Weak Rock=IDH_D_ROCK@LPSEHelp.hlp
+3 Rock Quality Designation (RQD)=Rock_Quality_Designation@LPSEHelp.hlp
+1 Options Menu
+2 Options=IDH_O_OPTIONS_MENU@LPSEHelp.hlp
+2 Engineering Units and Conversion=IDH_O_UNITS@LPSEHelp.hlp
+2 Analysis Type=IDH_O_ANALYSIS_TYPE@LPSEHelp.hlp
+2 Printing Depths of p-y Curves=IDH_O_PRINT_PY_CURVES@LPSEHelp.hlp
+2 Generate Foundation Stiffness=IDH_O_GEN_FOUND_STIFFNESS@LPSEHelp.hlp
+2 Generate Top Deflection vs. Pile Length=IDH_O_GEN_PILE_LENGTH@LPSEHelp.hlp
+2 Include p-y Modification Factors=IDH_O_INC_PY_MOD@LPSEHelp.hlp
+2 Include Shear Resistance at Pile Tip=IDH_O_INC_TIP_SHEAR@LPSEHelp.hlp
+2 Include Soil Movements=Soil_Movement@LPSEHelp.hlp
+2 Control Options=IDH_O_CONTROLS@LPSEHelp.hlp
+2 Excess Deflection Limit=IDH_O_EXCESS_DEFLECTION@LPSEHelp.hlp
+2 Iterations Limit=IDH_O_ITER@LPSEHelp.hlp
+2 Solution Convergence=IDH_O_TOLERANCE@LPSEHelp.hlp
+2 Output Options=IDH_O_OUTPUT_OPTIONS@LPSEHelp.hlp
+2 Print Summary Tables Only=IDH_O_ONLY_PRINT_SUMMARY@LPSEHelp.hlp
+2 Printing Increment=IDH_O_PRINT_INCR@LPSEHelp.hlp
+1 Computation Menu
+2 View Input File=IDH_C_Edit_Input_Text@LPSEHelp.hlp
+2 View Outut File=IDH_C_Edit_Output_Text@LPSEHelp.hlp
+2 View Processor-Run Notes=IDH_C_Processor-Run_Notes@LPSEHelp.hlp
+2 Run Analysis=IDH_C_Run@LPSEHelp.hlp
+2 Computation Menu=IDH_Computation@LPSEHelp.hlp
+1 Graphics Menu
+2 Plot Menu - Graphics Menu=IDH_GRAPHICS@LPSEHelp.hlp
+2 Plot Menu - Modify, Save, and Print Graphics=IDH_G_PLOT@LPSEHelp.hlp
+2 View Pile-Soil Geometry=View_Pile_Soil_Geometry@LPSEHelp.hlp
+2 p-y Curves=IDH_G_py@LPSEHelp.hlp
+2 Lateral Deflection vs. Depth=IDH_G_DD@LPSEHelp.hlp
+2 Bending Moment vs. Depth=IDH_G_MD@LPSEHelp.hlp
+2 Shear Force vs. Depth=IDH_G_SD@LPSEHelp.hlp
+2 Soil Reaction vs. Depth=IDH_G_RD@LPSEHelp.hlp
+2 Pile Length vs. Top Deflection=IDH_G_PLT@LPSEHelp.hlp
+2 Lateral Load vs. Top Deflection=IDH_G_LT@LPSEHelp.hlp
+2 Lateral Load vs. Moment=IDH_G_LM@LPSEHelp.hlp
+2 Lateral Load vs. K22=IDH_G_K22@LPSEHelp.hlp
+2 Lateral Load vs. K23=IDH_G_K23@LPSEHelp.hlp
+2 Moment vs. K32=IDH_G_K32@LPSEHelp.hlp
+2 Moment vs. K33=IDH_G_K33@LPSEHelp.hlp
+2 K22 vs. Pile Top Deflection=K22_vs_Pile_Top_Deflection@LPSEHelp.hlp
+2 K23 vs. Pile-Top Rotation=K23_vs_Pile_Top_Rotation@LPSEHelp.hlp
+2 K32 vs. Pile-Top Deflection=K32_vs_Pile_Top_Deflection@LPSEHelp.hlp
+2 K33 vs. Pile-Top Rotation=K33_vs_Pile_Top_Rotation@LPSEHelp.hlp
+1 Frequently Asked Questions
+2 Frequently Asked Questions=Frequently_Asked_Questions@LPSEHelp.hlp
